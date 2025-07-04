@@ -1,8 +1,5 @@
 ## 👋 Hello, I'm Saloni Pawale
 
-
-## 💡 About Me 
-
 🎓 **Computer Science Student** | 💻 **Aspiring Polyglot Developer**  
 - 🌱 Currently Working on TFLAssessment Project
 - 👨‍💻 Passionate about coding, open-source, and building real-world projects  
