@@ -1,4 +1,5 @@
-# 👋 Hello, I'm Saloni Pawale
+## 👋 Hello, I'm Saloni Pawale
+
 
 ## 💡 About Me 
 
@@ -7,6 +8,7 @@
 - 👨‍💻 Passionate about coding, open-source, and building real-world projects  
 - 🧠 Always curious and eager to learn  
 - 🎯 Committed to writing clean, efficient, and maintainable code  
+
 
 
 ## 💼 Technical Skills
@@ -30,10 +32,12 @@
 `Git`, `GitHub`
 
 
+
 ## 📊 GitHub Stats
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PawaleSaloni&theme=react&hide_border=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PawaleSaloni&layout=compact&theme=react&hide_border=true)
+
 
 
 ## 🌐 Connect with me
