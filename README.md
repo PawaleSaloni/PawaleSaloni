@@ -20,7 +20,7 @@
 **🗄 Databases:**  
 `MySQL`, `MongoDB`
 
-**⚙ Frameworks & Runtimes:**  
+**⚙ Frameworks & Libraries:**  
 `Node.js`, `React.js`, `Tailwind CSS`, `Bootstrap`
 
 **🧰 Tools & IDEs:**  
