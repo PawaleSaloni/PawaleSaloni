@@ -34,7 +34,6 @@
 ---
 
 ## 🌐 Connect with me
-
-[www.linkedin.com/in/SaloniPawale] •
-
+- 🔗 [GitHub](https://github.com/PawaleSaloni)  
+- 💼 [LinkedIn](https://linkedin.com/in/SaloniPawale)  
 
