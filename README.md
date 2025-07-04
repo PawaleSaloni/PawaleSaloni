@@ -1,8 +1,7 @@
 # 👋 Hello, I'm Saloni Pawale
 
-🎓 **Computer Science Student** | 💻 **Aspiring Full Stack Developer**  
+🎓 **Computer Science Student** | 💻 **Aspiring Polyglot Developer**  
 
----
 
 ## 💡 About Me  
 
@@ -19,7 +18,7 @@
  `Java`, `JavaScript`,`HTML`, `CSS`, `C#`
 
 **🗄 Databases:**  
-`MySQL`, `SQL Server`, `Oracle`, `MongoDB`, `JDBC`
+`MySQL`, `MongoDB`
 
 **⚙ Frameworks & Runtimes:**  
 `Node.js`, `React.js`
@@ -35,11 +34,10 @@
 
 ---
 
-
 ## 🌐 Connect With Me
 
 - 🔗 [GitHub](https://github.com/YourGitHubUsername)  
 - 💼 [LinkedIn](https://linkedin.com/in/YourLinkedInUsername)  
 
----
+
 
