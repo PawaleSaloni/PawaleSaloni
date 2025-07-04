@@ -31,11 +31,10 @@
 **📁 Version Control:**  
 `Git`, `GitHub`
 
+---
 
-## 🌐 Connect With Me
+## 🌐 Connect with me
 
-- 🔗 [GitHub](https://github.com/PawaleSaloni)  
-- 💼 [LinkedIn](https://linkedin.com/in/SaloniPawale))  
-
+[www.linkedin.com/in/SaloniPawale] •
 
 
