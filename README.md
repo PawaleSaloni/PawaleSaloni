@@ -10,7 +10,6 @@
 - 🧠 Always curious and eager to learn  
 - 🎯 Committed to writing clean, efficient, and maintainable code  
 
----
 
 ## 💼 Technical Skills
 
@@ -32,7 +31,6 @@
 **📁 Version Control:**  
 `Git`, `GitHub`
 
----
 
 ## 🌐 Connect With Me
 
