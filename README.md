@@ -14,7 +14,7 @@
 ## 💼 Technical Skills
 
 **🌐 Languages:**  
- `Java`, `JavaScript`,`HTML`, `CSS`, `C#`
+ `Java`, `C`, `C++`, `JavaScript`,`HTML`, `CSS`, 
 
 **🗄 Databases:**  
 `MySQL`, `MongoDB`
