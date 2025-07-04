@@ -31,7 +31,6 @@
 **📁 Version Control:**  
 `Git`, `GitHub`
 
----
 
 ## 🌐 Connect with me
 - 🔗 [GitHub](https://github.com/PawaleSaloni)  
