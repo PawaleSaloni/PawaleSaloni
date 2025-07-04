@@ -21,7 +21,7 @@
 `MySQL`, `MongoDB`
 
 **⚙ Frameworks & Runtimes:**  
-`Node.js`, `React.js`
+`Node.js`, `React.js`, `Tailwind CSS`, `Bootstrap`
 
 **🧰 Tools & IDEs:**  
 `Visual Studio`, `VS Code`, `Postman`
@@ -36,8 +36,8 @@
 
 ## 🌐 Connect With Me
 
-- 🔗 [GitHub](https://github.com/YourGitHubUsername)  
-- 💼 [LinkedIn](https://linkedin.com/in/YourLinkedInUsername)  
+- 🔗 [GitHub](https://github.com/PawaleSaloni)  
+- 💼 [LinkedIn](https://linkedin.com/in/SaloniPawale))  
 
 
 
