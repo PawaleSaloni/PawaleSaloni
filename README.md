@@ -1,11 +1,7 @@
 ## 👋 Hello, I'm Saloni Pawale
 
-🎓 **Computer Science Student** | 💻 **Aspiring Polyglot Developer**  
-- 🌱 Currently Working on TFLAssessment Project
-- 👨‍💻 Passionate about coding, open-source, and building real-world projects  
-- 🧠 Always curious and eager to learn  
-- 🎯 Committed to writing clean, efficient, and maintainable code  
-
+🎓 **Computer Science Student** | 💻 **Aspiring Software Engineer**  
+- 🌱 Currently Working on Java Project [TFLAssessment]
 
 
 ## 💼 Technical Skills
@@ -38,5 +34,7 @@
 
 
 ## 🌐 Connect with me
-- 🔗 [GitHub](https://github.com/PawaleSaloni)  
+- 🔗 [GitHub](https://github.com/PawaleSaloni)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/saloni-pawale)
+
 
