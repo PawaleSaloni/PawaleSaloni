@@ -35,11 +35,7 @@
 
 
 ## 🌐 Connect with me
-- 🔗 [GitHub](https://github.com/PawaleSaloni)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/saloni-pawale)
 
-## 🌐 Connect with me
-
-[![GitHub](https://img.shields.io/badge/GitHub-PawaleSaloni-181717?style=for-the-badge&logo=github)](https://github.com/PawaleSaloni)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Saloni%20Pawale-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saloni-pawale/)
+[![GitHub](https://img.shields.io/badge/-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PawaleSaloni)
+[![LinkedIn](https://img.shields.io/badge/-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saloni-pawale/)
 
