@@ -8,7 +8,7 @@
 ## 💼 Technical Skills
 
 **🌐 Languages:**  
- `Java`, `JavaScript`, `HTML`, `CSS`, 
+ `Java`, `JavaScript`, `HTML`, `CSS`
 
 **🗄 Databases:**  
 `MySQL`, `MongoDB`
