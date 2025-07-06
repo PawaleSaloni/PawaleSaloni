@@ -8,7 +8,7 @@
 ## 💼 Technical Skills
 
 **🌐 Languages:**  
- `Java`, `C`, `C++`, `JavaScript`,`HTML`, `CSS`, 
+ `Java`, `JavaScript`, `HTML`, `CSS`, 
 
 **🗄 Databases:**  
 `MySQL`, `MongoDB`
@@ -20,7 +20,7 @@
 `Visual Studio`, `VS Code`, `Postman`
 
 **🖥 Operating Systems:**  
-`Windows`, `Linux`, `Mac`
+`Windows`, `Mac`
 
 **📁 Version Control:**  
 `Git`, `GitHub`
