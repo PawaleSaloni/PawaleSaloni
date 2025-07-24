@@ -29,7 +29,7 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PawaleSaloni&theme=react&hide_border=true)  
+![GitHub Streak](https://streak-stats.demolab.com?user=PawaleSaloni&theme=react&hide_border=true)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PawaleSaloni&theme=radical&hide_border=true)
 
 
