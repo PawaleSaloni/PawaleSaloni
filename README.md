@@ -35,8 +35,7 @@
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=PawaleSaloni&theme=react&hide_border=true)
-
+![GitHub Streak](https://streak-stats.demolab.com?user=PawaleSaloni&theme=react&hide_border=true) 
 
 
 ## 📊 GitHub Stats
