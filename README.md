@@ -1,9 +1,12 @@
 ## 👋 Hello, I'm Saloni Pawale
 
-- 🎓 Computer Science Student 
-💻 **Aspiring Software Engineer & Fullstack Developer**  
-- 🌱 Currently Working on Java Project [TFLAssessment]
-  
+## 💡 About Me
+
+🎓 I'm a Computer Science student driven by a passion for using technology to solve real-world problems.  
+💻 I aspire to become a **Fullstack Developer and Software Engineer**, constantly honing my skills across the tech stack.  
+🚀 Currently, I'm working on an exciting Java-based projects 
+📚 I'm passionate about exploring emerging technologies, developing practical projects, and continuously expanding my knowledge through hands-on learning.
+
 
 ## 🛠 Languages and Tools
 
