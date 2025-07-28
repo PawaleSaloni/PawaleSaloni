@@ -3,8 +3,8 @@
 🎓 I'm a Computer Science student.  
 💻 I aspire to become a **Fullstack Developer and Software Engineer**, constantly honing my skills across the tech stack.  
 🚀 Currently, I'm working on exciting Java-based projects.  
-📚 I'm passionate about exploring emerging technologies, developing practical solutions, and learning through hands-on experience.
-📬 How to Reach Me: [LinkedIn – Saloni Pawale](https://www.linkedin.com/in/saloni-pawale/)  
+📚 I'm passionate about exploring emerging technologies, developing practical solutions, and learning through hands-on experience.  
+ 📬 How to Reach Me: [LinkedIn – Saloni Pawale](https://www.linkedin.com/in/saloni-pawale/)  
 
 ## 🛠 Languages and Tools
 
