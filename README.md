@@ -48,7 +48,6 @@
 
 [![Email](https://img.shields.io/badge/Email-pawalesaloni123@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pawalesaloni123@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Saloni%20Pawale-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saloni-pawale/)
-[![GitHub](https://img.shields.io/badge/GitHub-PawaleSaloni-181717?style=for-the-badge&logo=github)](https://github.com/PawaleSaloni)
 
 
 🚀 *Thanks for visiting my profile! Let’s connect and grow together.*
