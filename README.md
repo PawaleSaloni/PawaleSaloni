@@ -7,23 +7,9 @@
 
 ## 💼 Technical Skills
 
-**🌐 Languages:**  
- `Java`, `JavaScript`, `HTML`, `CSS`
-
-**🗄 Databases:**  
-`MySQL`, `MongoDB`
-
-**⚙ Frameworks & Libraries:**  
-`Node.js`, `React.js`, `Tailwind CSS`, `Bootstrap`
-
-**🧰 Tools & IDEs:**  
-`Visual Studio`, `VS Code`, `Postman`
-
-**🖥 Operating Systems:**  
-`Windows`, `Mac`
-
-**📁 Version Control:**  
-`Git`, `GitHub`
+| Languages | Databases | Frameworks & Libraries | Tools & IDEs | OS | Version Control |
+|----------|-----------|------------------------|--------------|----|----------------|
+| `Java`, `JavaScript`, `HTML`, `CSS` | `MySQL`, `MongoDB` | `Node.js`, `React.js`, `Tailwind CSS`, `Bootstrap` | `Visual Studio`, `VS Code`, `Postman` | `Windows`, `Mac` | `Git`, `GitHub` |
 
 ## 🔥 GitHub Streak
 
