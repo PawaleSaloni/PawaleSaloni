@@ -1,14 +1,12 @@
 ## 👋 Hello, I'm Saloni Pawale
 
-## 💡 About Me
-
 🎓 I'm a Computer Science student.  
 💻 I aspire to become a **Fullstack Developer and Software Engineer**, constantly honing my skills across the tech stack.  
 🚀 Currently, I'm working on exciting Java-based projects.  
 📚 I'm passionate about exploring emerging technologies, developing practical solutions, and learning through hands-on experience.
-# 📬 How to Reach Me : - 💼 **LinkedIn:** [Saloni Pawale](https://www.linkedin.com/in/saloni-pawale/)  
+📬 How to Reach Me [![LinkedIn](https://img.shields.io/badge/LinkedIn-Saloni%20Pawale-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saloni-pawale/)
 
----
+
 
 ## 🛠 Languages and Tools
 
@@ -34,19 +32,18 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
----
+
 
 ## 🔥 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=PawaleSaloni&theme=react&hide_border=true)
 
----
+
 
 ## 📊 GitHub Stats
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PawaleSaloni&theme=radical&hide_border=true)
 
----
 
 ## 📬 Connect with me
 
@@ -55,6 +52,5 @@ Feel free to connect or get in touch:
 - 📧 **Email:** [pawalesaloni123@gmail.com](mailto:pawalesaloni123@gmail.com)  
 - 💼 **LinkedIn:** [Saloni Pawale](https://www.linkedin.com/in/saloni-pawale/)  
 
----
 
 🚀 *Thanks for visiting my profile! Let’s connect and grow together.*
