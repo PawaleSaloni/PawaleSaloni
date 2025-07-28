@@ -32,11 +32,9 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
-
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=PawaleSaloni&theme=react&hide_border=true) 
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=PawaleSaloni&theme=react&hide_border=true)](https://git.io/streak-stats)
 
 ## 📊 GitHub Stats
 
