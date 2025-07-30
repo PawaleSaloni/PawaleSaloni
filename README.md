@@ -39,10 +39,10 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PawaleSaloni&theme=radical&hide_border=true)
 
 
-## 📬 Connect with me
+## 📬 Connect with Me
 
-[![Email](https://img.shields.io/badge/Email-pawalesaloni123@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pawalesaloni123@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Saloni%20Pawale-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saloni-pawale/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saloni-pawale/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pawalesaloni123@gmail.com)
 
 
 🚀 *Thanks for visiting my profile! Let’s connect and grow together.*
