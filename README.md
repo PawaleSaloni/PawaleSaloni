@@ -35,12 +35,8 @@
 ## 🔥 GitHub Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PawaleSaloni&theme=react&hide_border=true)
 
-## 📊 GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PawaleSaloni&theme=radical&hide_border=true)
-
 
 ## 📬 Connect with Me
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saloni-pawale/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pawalesaloni123@gmail.com)
 
