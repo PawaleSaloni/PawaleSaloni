@@ -1,44 +1,76 @@
-## 👋 Hello, I'm Saloni Pawale
+# 👋 Hi, I'm Saloni Pawale
 
-🎓 Pursuing Master’s in Computer Science from the University of Mumbai.  
-💻 I aspire to become a **Fullstack Developer and Software Engineer**, constantly honing my skills across the tech stack.  
-🚀 Currently, I'm working on Java-based projects.  
-📚 I'm passionate about exploring emerging technologies, developing practical solutions, and learning through hands-on experience.  
-📬 How to Reach Me: [LinkedIn](https://www.linkedin.com/in/saloni-pawale/)
+🎓 Master's Student in Computer Science | University of Mumbai  
+💻 Aspiring Full Stack Developer & Software Engineer  
+🚀 Passionate about building scalable applications and solving real-world problems  
 
+---
 
-## 🛠 Languages and Tools
+## 👩‍💻 About Me
 
-### 🧑‍💻 Languages  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+I am currently pursuing my **Master’s in Computer Science from the University of Mumbai**.  
+I am deeply passionate about becoming a **Full Stack Developer and Software Engineer**, continuously strengthening my skills across frontend, backend, databases, and DevOps.
 
-### 🗄️ Databases  
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+I believe in:
+- Writing clean and maintainable code
+- Learning through hands-on project development
+- Exploring emerging technologies
+- Building practical and scalable solutions
 
-### ⚙️ Frameworks & Libraries  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+Currently, I am working on **Java-based backend projects** and expanding my expertise in modern web technologies.
 
-### 🧰 Tools  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+---
 
-## 🔥 GitHub Streak
+## 🛠 Technical Skills
+
+### 💻 Programming Languages
+- Java
+- JavaScript
+- HTML5
+- CSS3
+
+### 🗄️ Databases
+- MySQL
+- MongoDB
+
+### ⚙️ Frameworks & Libraries
+- Node.js
+- React.js
+- Bootstrap
+- Tailwind CSS
+
+### 🧰 Tools & Platforms
+- Git
+- GitHub
+- Postman
+- VS Code
+- Docker
+
+---
+
+## 🔥 GitHub Activity
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PawaleSaloni&theme=react&hide_border=true)
 
+---
 
-## 📬 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saloni-pawale/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pawalesaloni123@gmail.com)
+## 📌 Career Goals
 
+✔️ Become a professional Full Stack Developer  
+✔️ Contribute to impactful software solutions  
+✔️ Continuously grow in system design and scalable architectures  
+✔️ Work on enterprise-level backend systems  
 
-🚀 *Thanks for visiting my profile! Let’s connect and grow together.*
+---
+
+## 📬 Connect With Me
+
+🔗 **LinkedIn**  
+https://www.linkedin.com/in/saloni-pawale/
+
+📧 **Email**  
+pawalesaloni123@gmail.com
+
+---
+
+⭐ *Thank you for visiting my GitHub profile. I'm always open to collaboration, learning opportunities, and meaningful tech discussions!*
