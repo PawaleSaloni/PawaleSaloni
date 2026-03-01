@@ -1,76 +1,51 @@
-# 👋 Hi, I'm Saloni Pawale
+## 👋 Hello, I'm Saloni Pawale
 
-🎓 Master's Student in Computer Science | University of Mumbai  
-💻 Aspiring Full Stack Developer & Software Engineer  
-🚀 Passionate about building scalable applications and solving real-world problems  
+🎓 Pursuing Master’s in Computer Science from the University of Mumbai.  
+💻 I aspire to become a **Fullstack Developer and Software Engineer**, constantly honing my skills across the tech stack.  
+🚀 Currently, I'm working on Java-based projects.  
+📚 I'm passionate about exploring emerging technologies, developing practical solutions, and learning through hands-on experience.  
+📬 How to Reach Me: [LinkedIn](https://www.linkedin.com/in/saloni-pawale/)
 
----
-
-## 👩‍💻 About Me
-
-I am currently pursuing my **Master’s in Computer Science from the University of Mumbai**.  
-I am deeply passionate about becoming a **Full Stack Developer and Software Engineer**, continuously strengthening my skills across frontend, backend, databases, and DevOps.
-
-I believe in:
-- Writing clean and maintainable code
-- Learning through hands-on project development
-- Exploring emerging technologies
-- Building practical and scalable solutions
-
-Currently, I am working on **Java-based backend projects** and expanding my expertise in modern web technologies.
-
----
 
 ## 🛠 Technical Skills
 
-### 💻 Programming Languages
-- Java
-- JavaScript
-- HTML5
-- CSS3
+### 💻 Programming Languages  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🗄️ Databases
-- MySQL
-- MongoDB
+### ⚙️ Backend Development  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
+![MVC Architecture](https://img.shields.io/badge/MVC_Architecture-FF6F00?style=for-the-badge&logo=codeigniter&logoColor=white)
 
-### ⚙️ Frameworks & Libraries
-- Node.js
-- React.js
-- Bootstrap
-- Tailwind CSS
+### 🎨 Frontend Development  
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Responsive Design](https://img.shields.io/badge/Responsive_Web_Design-0A66C2?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🧰 Tools & Platforms
-- Git
-- GitHub
-- Postman
-- VS Code
-- Docker
+### 🗄️ Databases  
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Database Design](https://img.shields.io/badge/Database_Design-4CAF50?style=for-the-badge&logo=databricks&logoColor=white)
+![CRUD Operations](https://img.shields.io/badge/CRUD_Operations-6A1B9A?style=for-the-badge&logo=database&logoColor=white)
 
----
+### 🧰 Tools & Platforms  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-## 🔥 GitHub Activity
-
+## 🔥 GitHub Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PawaleSaloni&theme=react&hide_border=true)
 
----
 
-## 📌 Career Goals
+## 📬 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saloni-pawale/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pawalesaloni123@gmail.com)
 
-✔️ Become a professional Full Stack Developer  
-✔️ Contribute to impactful software solutions  
-✔️ Continuously grow in system design and scalable architectures  
-✔️ Work on enterprise-level backend systems  
 
----
-
-## 📬 Connect With Me
-
-🔗 **LinkedIn**  
-https://www.linkedin.com/in/saloni-pawale/
-
-📧 **Email**  
-pawalesaloni123@gmail.com
-
----
-
-⭐ *Thank you for visiting my GitHub profile. I'm always open to collaboration, learning opportunities, and meaningful tech discussions!*
+🚀 *Thanks for visiting my profile! Let’s connect and grow together.* recreate this in professional way  in complete one readme.md file
