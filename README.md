@@ -24,13 +24,11 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Responsive Design](https://img.shields.io/badge/Responsive_Web_Design-0A66C2?style=for-the-badge&logo=css3&logoColor=white)
 
 ### 🗄️ Databases  
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Database Design](https://img.shields.io/badge/Database_Design-4CAF50?style=for-the-badge&logo=databricks&logoColor=white)
-![CRUD Operations](https://img.shields.io/badge/CRUD_Operations-6A1B9A?style=for-the-badge&logo=database&logoColor=white)
 
 ### 🧰 Tools & Platforms  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
