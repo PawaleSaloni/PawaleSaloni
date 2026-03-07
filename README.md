@@ -1,7 +1,7 @@
 ## 👋 Hello, I'm Saloni Pawale
 
 🎓 Pursuing Master’s in Computer Science from the University of Mumbai.  
-💻 I aspire to become a **Fullstack Developer**, constantly honing my skills across the tech stack.  
+💻 I aspire to become a **Software Development Engineer (SDE)**, constantly honing my skills across the tech stack.  
 🚀 Currently, I'm working on Java-based projects.  
 📚 I'm passionate about exploring emerging technologies, developing practical solutions, and learning through hands-on experience.  
 📬 How to Reach Me: [LinkedIn](https://www.linkedin.com/in/saloni-pawale/)
