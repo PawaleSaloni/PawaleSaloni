@@ -1,7 +1,7 @@
 ## 👋 Hello, I'm Saloni Pawale
 🎓 Pursuing **Master’s in Computer Science** from the University of Mumbai.  
 💻 Aspiring **Software Development Engineer (SDE)**, constantly honing my skills across the tech stack.  
-🚀 Currently, deep-diving into **Java**, **Spring Boot** & **Microservices** 
+🚀 Currently, deep-diving into **Java**, **Spring Boot** & **Microservices**.
 📚 I'm passionate about emerging technologies, clean code, and building solutions that matter.
 
 📬 How to Reach Me: [LinkedIn](https://www.linkedin.com/in/saloni-pawale/)
