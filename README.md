@@ -41,7 +41,7 @@
 ![Database Design](https://img.shields.io/badge/Database_Design-4CAF50?style=for-the-badge&logo=databricks&logoColor=white)
 
 ### 🧰 Tools & Platforms
-
+![Eclipse IDE](https://img.shields.io/badge/IDE-Eclipse-blue?logo=eclipse)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
