@@ -2,7 +2,7 @@
 
 🎓 Pursuing Master's in Computer Science from the University of Mumbai.  
 💻 I aspire to become a **FullStack Developer**, constantly honing my skills across the tech stack.  
-🚀 Currently, Learning C# language 
+🚀 Currently, Learning C# language. 
 📚 I'm passionate about exploring emerging technologies, developing practical solutions, and learning through hands-on experience.  
 📬 How to Reach Me: [LinkedIn](https://www.linkedin.com/in/saloni-pawale/)
 
